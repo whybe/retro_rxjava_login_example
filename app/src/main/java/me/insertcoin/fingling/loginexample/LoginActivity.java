@@ -1,4 +1,4 @@
-package me.insertcoin.fingling.loginexample2;
+package me.insertcoin.fingling.loginexample;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

@@ -1,4 +1,4 @@
-package me.insertcoin.fingling.loginexample2;
+package me.insertcoin.fingling.loginexample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

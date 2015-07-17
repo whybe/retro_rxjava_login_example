@@ -3,11 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".LoginActivity">
+    tools:context="me.insertcoin.fingling.loginexample.LoginActivity">
 
     <fragment
         android:id="@+id/fragment"
-        android:name="me.insertcoin.fingling.loginexample2.LoginActivityFragment"
+        android:name="me.insertcoin.fingling.loginexample.LoginActivityFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout="@layout/fragment_login" />
